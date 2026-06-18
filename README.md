@@ -1,4 +1,4 @@
-# Sistema de Ventas - POSTGRESSQL
+# Sistema de Ventas - POSTGRESQL
 
 Este repositorio contiene el diseño, llenado y consultas de un sistema de ventas básico.
 
