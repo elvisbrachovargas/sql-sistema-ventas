@@ -1,4 +1,4 @@
-# Sistema de Ventas - SQL Intermedio
+# Sistema de Ventas - POSTGRESSQL
 
 Este repositorio contiene el diseño, llenado y consultas de un sistema de ventas básico.
 
